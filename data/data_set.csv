@@ -1,0 +1,18 @@
+AgentID,Desk_Number,Street_Name,CustID,Num_Calls,Language,Call_result
+020001,D501,Ooivaarstraat,Cu381,9,Fr,Approval
+n/a,D806,GabpetitStraatt,Cu201,12,Fr,appointment
+020017,D059,elyseestraat,,9,Fr,Denial
+020101,D124,Lovendegem,Cu415,23,Nl,Approval
+020345,D237,Martelaarslaan,Cu011,7,Fr,Refusal
+020090,D611,,Cu026,20,Nl,Refusal
+020000,D406,Roi baudoin,Cu0102,51,Nl,
+020420,D341,Rue Laure,Cu011,77,Fr,Refusal
+n/a,D501,Rue bafou,Cu264,102,,Refusal
+020111,D222,atomiumstraat,na,6,Fr,Refusal
+?,D501,NaN,Cu021,42,Fr,Refusal
+020888,D501,eiprestraat,Cu017,5,Fr,Approval
+020231,??,--,Cu091,4,Fr,Refusal
+020909,D501,Martelaarslaan,Cu331,51,Nl,Approval
+020660,D501,---,Cu490,38,Fr,Refusal
+020199,D501,Martelaarslaan,n/a,18,Fr,Refusal
+,,zaventemStraat,n/a,1,Fr,#
